@@ -5,10 +5,15 @@
       <map>
         <entry key="app/src/main/res/drawable/dialog_frag.xml" value="0.1255" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.18614130434782608" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.18614130434782608" />
+        <entry key="app/src/main/res/layout/activity_second.xml" value="0.18614130434782608" />
+        <entry key="app/src/main/res/layout/activity_ssecond.xml" value="0.18614130434782608" />
         <entry key="app/src/main/res/layout/fragment_item.xml" value="0.18614130434782608" />
         <entry key="app/src/main/res/layout/fragment_item_list.xml" value="0.18614130434782608" />
         <entry key="app/src/main/res/layout/fragment_my__list_fragment.xml" value="0.18614130434782608" />
         <entry key="app/src/main/res/layout/fragment_my_list.xml" value="0.18614130434782608" />
+        <entry key="app/src/main/res/layout/fragment_my_list2.xml" value="0.18614130434782608" />
+        <entry key="app/src/main/res/layout/fragment_ssecond.xml" value="0.18614130434782608" />
       </map>
     </option>
   </component>

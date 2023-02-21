@@ -26,8 +26,8 @@ class MainActivity : AppCompatActivity() {
         }
     }
     fun getUserData(userName:String,userAge:Int){
-        name.text= "Name:$userName"
-        age.text="Age :$userAge"
+        name.text= "$userName"
+        age.text="$userAge"
 
     }
 }
